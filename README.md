@@ -1,7 +1,7 @@
 # Sistema de Cadastro de Usuários
-<img src="../API node jwt/frontend/react-cadastro/src/assets/cadastro.jpeg" alt="Tela de cadastro" width="500"/>
-<img src="../API node jwt/frontend/react-cadastro/src/assets/lista.jpeg" alt="Tela de cadastro" width="500"/>
-<img src="../API node jwt/frontend/react-cadastro/src/assets/login.jpeg" alt="Tela de cadastro" width="500"/>
+<img src="cadastro.jpeg" alt="Tela de cadastro" width="500"/>
+<img src="lista.jpeg" alt="Tela de cadastro" width="500"/>
+<img src="login.jpeg" alt="Tela de cadastro" width="500"/>
 
 <br>
 
